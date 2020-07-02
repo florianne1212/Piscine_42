@@ -1,0 +1,8 @@
+Credentials cache: API:84EACC77-0FE0-43EA-B4D6-92FE0BF627AE
+        Principal: fcoudert@42.FR
+
+  Issued                Expires               Principal
+Aug 27 08:18:34 2019  Sep  3 08:18:34 2019  krbtgt/42.FR@42.FR
+Aug 27 08:18:36 2019  Sep  3 08:18:34 2019  ldap/ldap-proxy.42.fr@42.FR
+Aug 27 08:18:36 2019  Sep  3 08:18:34 2019  HTTP/student-storage-2.42.fr@42.FR
+Aug 27 08:21:34 2019  Sep  3 08:18:34 2019  host/vgs-fn1.42.fr@42.FR
